@@ -1,2 +1,3 @@
 # MultiTor
-FMI project for Distributed System Architectures
+
+A multithread realisation  of Wa-Tor simulation using Java
