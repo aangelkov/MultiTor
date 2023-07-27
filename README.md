@@ -1,3 +1,3 @@
 # MultiTor
 
-A multithread realisation  of Wa-Tor simulation using Java
+A multithread realisation  of Wa-Tor simulation using JavaFX
